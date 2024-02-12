@@ -14,6 +14,7 @@ Welcome to my GitHub page! I'm Boris, a passionate software developer with a str
 Here you'll find my projects. Some highlights:
 
 - **[paper-template](https://github.com/Boris-Bodin/paper-template):** A class for write document on latex.
+- **[formation-template](https://github.com/Boris-Bodin/formation-template):** A template for writing and deploying on pages a formation using remark.js.
 - **[nexus-hook](https://github.com/Boris-Bodin/nexus-nook):** A link-in-the-bio like, on React.
 
 Feel free to explore and provide feedback!
